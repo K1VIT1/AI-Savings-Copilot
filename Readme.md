@@ -46,15 +46,7 @@ The application calculates:
 
 ## Workflow
 
-User Inputs Financial Data
-↓
-Budget & Savings Calculations
-↓
-Gemini AI Analysis
-↓
-Personalized Recommendations
-↓
-Actionable Financial Decisions
+User Inputs Financial Data -- Budget & Savings Calculations -- Gemini AI Analysis -- Personalized Recommendations -- Actionable Financial Decisions
 
 ## Tech Stack
 
